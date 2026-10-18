@@ -1,6 +1,6 @@
 # Unit Converter
 
-A tiny Tkinter app that converts kilometers to miles. One of the first programs I wrote while learning Python, between July and November 2023, kept here as it was.
+A tiny Tkinter app that converts kilometers to miles. One of the first programs I wrote while learning Python, between July and November 2023, kept here as it was. Built while following Angela Yu's *100 Days of Code: The Complete Python Pro Bootcamp* (Udemy, The App Brewery).
 
 ## Run
 
@@ -23,7 +23,7 @@ python3 main.py
 
 ## Birim Dönüştürücü (Türkçe)
 
-Kilometreyi mile çeviren küçük bir Tkinter uygulaması. Python öğrenirken, Temmuz ile Kasım 2023 arasında yazdığım ilk programlardan biri; hatıra olarak olduğu gibi saklanıyor.
+Kilometreyi mile çeviren küçük bir Tkinter uygulaması. Python öğrenirken, Temmuz ile Kasım 2023 arasında yazdığım ilk programlardan biri; hatıra olarak olduğu gibi saklanıyor. Angela Yu'nun *100 Days of Code: The Complete Python Pro Bootcamp* kursunu (Udemy, The App Brewery) takip ederken yazıldı.
 
 ### Çalıştırma
 
